@@ -9,7 +9,6 @@
 *.azure-apim.net
 *.azurerms.com
 *.cloud.microsoft
-*.cortana.ai
 *.entrust.net
 *.events.data.microsoft.com
 *.flow.microsoft.com
@@ -23,8 +22,6 @@
 *.microsoftonline-p.com
 *.microsoftonline.com
 *.microsoftusercontent.com
-*.msauth.net
-*.msauthimages.net
 *.msecnd.net
 *.msftauth.net
 *.msftauthimages.net
@@ -117,7 +114,6 @@ cloud.microsoft
 companymanager.microsoftonline.com
 compass-ssl.microsoft.com
 compliance.microsoft.com
-cortana.ai
 crl.globalsign.com
 crl.globalsign.net
 crl.identrust.com
@@ -144,7 +140,6 @@ geotrust.com
 go.microsoft.com
 graph.microsoft.com
 graph.windows.net
-hip.live.com
 informationprotection.azure.com
 informationprotection.hosting.portal.azure.net
 isrg.trustid.ocsp.identrust.com
@@ -167,8 +162,6 @@ microsoftonline.com
 microsoftusercontent.com
 mlccdn.blob.core.windows.net
 mlccdnprod.azureedge.net
-msauth.net
-msauthimages.net
 mscrl.microsoft.com
 msdn.microsoft.com
 msecnd.net
@@ -242,7 +235,6 @@ spoprod-a.akamaihd.net
 ssw.live.com
 staffhub.ms
 staffhubweb.azureedge.net
-static.microsoft
 storage.live.com
 streaming.mediaservices.windows.net
 support.microsoft.com
@@ -261,7 +253,6 @@ verisign.com
 verisign.net
 virtualearth.net
 wns.windows.com
-wus-firstpartyapps.oaspapps.com
 wus-www.sway-cdn.com
 wus-www.sway-extensions.com
 www.acompli.com
